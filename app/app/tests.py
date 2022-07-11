@@ -5,6 +5,7 @@ from django.test import SimpleTestCase
 
 from . import calc
 
+
 class CalcTest(SimpleTestCase):
     """Test the calc modul"""
     def test_add(self):
