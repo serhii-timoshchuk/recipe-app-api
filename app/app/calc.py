@@ -10,4 +10,3 @@ def add(x, y):
 def substract(x, y):
     '''Substract x from y and return result'''
     return y - x
-
